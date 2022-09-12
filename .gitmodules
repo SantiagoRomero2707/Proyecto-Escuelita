@@ -1,0 +1,8 @@
+[submodule "Back-Escuelita"]
+	path = Back-Escuelita
+	url = https://github.com/SantiagoRomero2707/Back-Escuelita
+	branch = main
+[submodule "Front-End-Escuelita"]
+	path = Front-End-Escuelita
+	url = https://github.com/SantiagoRomero2707/Front-End-Escuelita
+	branch = main
