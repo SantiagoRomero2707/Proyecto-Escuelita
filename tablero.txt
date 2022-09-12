@@ -1,11 +1,21 @@
-Backlog: Crear Back-End
+Backlog: Crear Vista de Calificaciones de los estudiantes
 Primer Sprint 
-  Historia de usuario  -> Crear repositorios en git. DONE
-  Historia de usuario  -> Dockerizar proyecto.
-  Historia de usuario  -> Crear modelo entidad relación de la base de datos.
-  Historia de usuario  -> Crear una base de datos (MySQL-Relacional).
-  Historia de usuario  -> Crear back que pueda hacer un Create a la base de datos notas (Servicio REST).
-  Historia de usuario  -> Crear back que pueda hacer un Read a la base de datos notas (Servicio REST).
-  Historia de usuario  -> Crear back que pueda hacer un Update a la base de datos notas (Servicio REST).
-  Historia de usuario  -> Crear back que pueda hacer un Delete a la base de datos notas (Servicio REST).
+  Historia de usuario -> Crear repositorios en git. DONE
+  Historia de usuario -> Dockerizar proyecto.
+  Historia de usuario -> Crear modelo entidad relación de la base de datos.
+  Historia de usuario -> Crear una base de datos (MySQL-Relacional).
+  Historia de usuario -> Crear back que pueda hacer un Create a la base de datos notas (Servicio REST).
+  Historia de usuario -> Crear back que pueda hacer un Read a la base de datos notas (Servicio REST).
+  Historia de usuario -> Crear back que pueda hacer un Update a la base de datos notas (Servicio REST).
+  Historia de usuario -> Crear back que pueda hacer un Delete a la base de datos notas (Servicio REST).
   Historia de usuario -> dockerizar Back-End
+
+Segundo Sprint 
+  Historia de usuario -> Crear Front-End
+  Historia de usuario -> Consumir API.
+  Historia de usuario -> Generar validadores.
+  Historia de usuario -> Pruebas de QA.
+  
+Tercer Sprint 
+  Historia de usuario -> Despliegue en AWS
+  
