@@ -1,0 +1,11 @@
+Backlog: Crear Back-End
+Primer Sprint 
+  Historia de usuario  -> Crear repositorios en git. DONE
+  Historia de usuario  -> Dockerizar proyecto.
+  Historia de usuario  -> Crear modelo entidad relación de la base de datos.
+  Historia de usuario  -> Crear una base de datos (MySQL-Relacional).
+  Historia de usuario  -> Crear back que pueda hacer un Create a la base de datos notas (Servicio REST).
+  Historia de usuario  -> Crear back que pueda hacer un Read a la base de datos notas (Servicio REST).
+  Historia de usuario  -> Crear back que pueda hacer un Update a la base de datos notas (Servicio REST).
+  Historia de usuario  -> Crear back que pueda hacer un Delete a la base de datos notas (Servicio REST).
+  Historia de usuario -> dockerizar Back-End
